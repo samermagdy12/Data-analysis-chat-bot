@@ -1,0 +1,22 @@
+# AI Data Analyst - Backend Dependencies
+
+# Web Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# Data Validation
+pydantic==2.5.2
+
+# Environment Configuration
+python-dotenv==1.0.0
+
+# LLM Integration
+openai==1.3.9
+
+# Data Processing & Analysis
+pandas==2.1.3
+numpy==1.26.3
+openpyxl==3.11.0
+
+# Visualization
+matplotlib==3.8.2
